@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Denis Wanjohi 👋
 
-<!--
-**dendroid3/dendroid3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a first-year **BSc Computer Science** student with a strong interest in **Machine Learning**, **AI**, and **Web Development**. I'm passionate about coding, learning new technologies, and building innovative projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I am currently working on **Machine Learning** and **Data Science** projects.
+- 💻 I am learning **Python** for ML, **JavaScript** for web development, and exploring **AI** technologies.
+- 🎓 Currently studying **Computer Science** and aiming for a career as a **Data Engineer**.
+- 🌱 I am working on my first few Machine Learning projects and experimenting with new algorithms.
+
+## 🔧 Technologies & Tools
+
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Machine Learning Libraries**: NumPy, pandas, scikit-learn, TensorFlow
+- **Web Development**: Vue.js, React, Laravel, Flask
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: VSCode, Jupyter Notebooks, Git, Docker, Github Actions
+- **Deployments**: Digital Ocean
+
+## 📈 Wakatime Stats
+
+![My WakaTime](https://wakatime.com/@Wanjohi_Mwangi)
+
+[![wakatime](https://wakatime.com/badge/user/5555d3c7-1c5c-4ec7-aab7-858d203d30a5.svg)](https://wakatime.com/@5555d3c7-1c5c-4ec7-aab7-858d203d30a5)
+
+## 📚 Current Projects
+
+- **Kazibin**: A platform for academic writers to bid on assignments.
+- **Kazibin Marketplace**: A marketplace for buying and selling writing accounts.
+- **GameControl**: A marketplace for soccer odds and betslips.
+- **Machine Learning Projects**: Exploring various ML algorithms and implementing them from scratch.
+
+## 💬 Get in Touch
+
+Feel free to reach out to me for collaborations, questions, or just to chat about tech:
+
+- 📧 Email: [info@kazibin.com](mailto:info@kazibin.com)
+- 🌐 Website: [Kazibin](https://kazibin.com)
+- 🐦 Twitter: [@1_NJOHI](https://x.com/1_NJOHI)
+
+## 🤝 Support My Work
+
+If you find my projects useful, consider supporting me:
+
+- ⭐ Star my repositories on GitHub.
+- 🔄 Fork my repositories to contribute or learn from them.
+
+Thank you for visiting my profile! 🚀
