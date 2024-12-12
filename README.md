@@ -1,4 +1,4 @@
-# Hi, I'm Denis Wanjohi 👋
+# Hello, I am Denis Wanjohi Mwangi👋
 
 Welcome to my GitHub profile! I'm a first-year **BSc Computer Science** student with a strong interest in **Machine Learning**, **AI**, and **Web Development**. I'm passionate about coding, learning new technologies, and building innovative projects.
 
@@ -18,7 +18,9 @@ Welcome to my GitHub profile! I'm a first-year **BSc Computer Science** student 
 - **Tools**: VSCode, Jupyter Notebooks, Git, Docker, Github Actions
 - **Deployments**: Digital Ocean
 
-## 📈 Wakatime Stats
+## 📈 Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dendroid3&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ![My WakaTime](https://wakatime.com/@Wanjohi_Mwangi)
 
