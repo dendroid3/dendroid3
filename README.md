@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a first-year **BSc Computer Science** student 
 
 ## 📈 Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dendroid3&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-<img src="https://wakatime.com/share/@Wanjohi_Mwangi/ffd07aff-a50e-4df2-92ea-ceab6c36d2f0.svg" alt="Wakatime" width="500" height="500">
-[![wakatime](https://wakatime.com/badge/user/5555d3c7-1c5c-4ec7-aab7-858d203d30a5.svg)](https://wakatime.com/@5555d3c7-1c5c-4ec7-aab7-858d203d30a5)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dendroid3&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical) <br>
+<img src="https://wakatime.com/share/@Wanjohi_Mwangi/ffd07aff-a50e-4df2-92ea-ceab6c36d2f0.svg" alt="Wakatime" width="500" height="500"> <br>
+[![wakatime](https://wakatime.com/badge/user/5555d3c7-1c5c-4ec7-aab7-858d203d30a5.svg)](https://wakatime.com/@5555d3c7-1c5c-4ec7-aab7-858d203d30a5) <br>
 
 
 ## 📚 Current Projects
