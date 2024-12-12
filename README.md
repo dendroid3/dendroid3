@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I'm a first-year **BSc Computer Science** student 
 </p>
 
 - **Languages**: PHP, Python, JavaScript, Go
-- **Frameworks**: Laravel, Vuejs, React, Flask
 - **Machine Learning Libraries**: NumPy, pandas, scikit-learn, TensorFlow
 - **Web Development**: Vue.js, React, Laravel, Flask
 - **Databases**: MySQL, PostgreSQL
