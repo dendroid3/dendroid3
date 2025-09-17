@@ -53,7 +53,7 @@
 ## 🌟 Client Projects  
 - 🛒 **dasipsVentures** – Bronchure website for a properties agency (Admin Panel - Laravel. Client interface - Vanilla everything) [Visit](https://dasipsventures.com)
 - ⚽ **adiliRealEstate** – Bronchure website for a real estate company (Nuxt and Vuetify) [Visit](https://adilirealestate.com)
-- 🏥 **thunguriCoffeeFactory** – Bronchure website for a coffee factory [Visit](http://thungurcoffeefactory.co.ke)
+- 🏥 **thunguriCoffeeFactory** – Bronchure website for a coffee factory [Visit](http://thunguricoffeefactory.co.ke)
 
 ---
 
