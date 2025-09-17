@@ -2,6 +2,15 @@
 
 🌍 Computer Science student | 💻 Web Developer | EnterpreneurAtHeart
 
+---
+
+## 🔥 About Me  
+- 🎓 Pursuing a BSc in Computer Science  
+- 🌱 Passionate about **Web Development and Start-Ups**  
+- 💡 Love building projects that solve real-world problems
+
+---
+
 <pre>
   In curly braces I find my song,
   Where PHP tags all belong.
@@ -16,13 +25,6 @@
   So here I code, both night and day,
   In PHP’s arms, I’ll always stay. 💻❤️
 </pre>
-
----
-
-## 🔥 About Me  
-- 🎓 Pursuing a BSc in Computer Science  
-- 🌱 Passionate about **Web Development and Start-Ups**  
-- 💡 Love building projects that solve real-world problems  
 
 ---
 
