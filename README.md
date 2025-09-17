@@ -23,7 +23,7 @@
   A framework hug that never grows old.
 
   So here I code, both night and day,
-  In PHP’s arms, I’ll always stay. 💻❤️
+  In PHP’s arms, I’ll always stay. 
 </pre>
 
 ---
