@@ -39,6 +39,7 @@
 **Frontend:** Vue.js | Nuxt | TailwindCSS | ShadCN | Vuetify  
 **Backend:** Laravel | Flask | FastAPI | Node.js  
 **Database:** MySQL | PostgreSQL | SQLite  
+**Deployment:** DigitalOcean | CPanel | Vercel
 **Other:** Git | Docker | REST APIs | WebSockets  
 
 ---
