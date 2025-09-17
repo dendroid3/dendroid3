@@ -2,6 +2,21 @@
 
 🌍 Computer Science student | 💻 Web Developer | EnterpreneurAtHeart
 
+<pre>
+  In curly braces I find my song,
+  Where PHP tags all belong.
+  Laravel whispers, “artisan serve”,
+  And all my routes find gentle curve.
+
+  Migrations march, migrations run,
+  Eloquent dances — queries done.
+  With every blade, the views unfold,
+  A framework hug that never grows old.
+
+  So here I code, both night and day,
+  In PHP’s arms, I’ll always stay. 💻❤️
+</pre>
+
 ---
 
 ## 🔥 About Me  
